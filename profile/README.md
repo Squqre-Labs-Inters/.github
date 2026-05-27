@@ -1,45 +1,46 @@
 <div align="center">
 
-<img src="https://squarelabs.com.np/logo.png" width="120" alt="Square Labs Logo"/>
+<img src="https://raw.githubusercontent.com/YOUR_ORG_NAME/.github/main/profile/logo.png" width="180" alt="Square Labs Logo"/>
 
-# Square Labs Interns
+# <span style="color:#0E9F43;">Square Labs Interns</span>
 
-### Learn • Build • Innovate • Grow
+### <span style="color:#8CC63F;">Learn • Build • Innovate • Grow</span>
 
 <p align="center">
-  <a href="https://squarelabs.com.np">
-    <img src="https://img.shields.io/badge/Website-squarelabs.com.np-0A66C2?style=for-the-badge">
-  </a>
-  
-  <a href="https://github.com">
-    <img src="https://img.shields.io/badge/GitHub-Organization-black?style=for-the-badge&logo=github">
-  </a>
 
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-SquareLabs-blue?style=for-the-badge&logo=linkedin">
-  </a>
+<a href="https://squarelabs.com.np">
+  <img src="https://img.shields.io/badge/Website-Square%20Labs-0E9F43?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_ORG_NAME">
+  <img src="https://img.shields.io/badge/GitHub-Organization-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-Square%20Labs-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </p>
 
----
-
-### 🚀 Empowering Future Innovators Through Real-World Technology Experience
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0E9F43&height=120&section=header"/>
 
 </div>
 
-<br>
+---
 
-## 🌟 About Square Labs
+# 🚀 About Square Labs
 
-Square Labs is an innovation-driven IT company and learning platform focused on building real-world digital solutions while empowering students and interns with industry-ready skills.
+Square Labs is an innovation-driven IT company and learning platform dedicated to building impactful digital products while empowering future tech professionals through practical learning, mentorship, and real-world project experience.
 
-Our internship ecosystem is designed to provide:
+Our internship ecosystem focuses on:
 
-- Real project exposure
+- Real-world project development
 - Industry mentorship
-- Collaborative learning
-- Modern technology stack experience
-- Research & innovation opportunities
-- Startup culture and agile workflow
+- Agile team collaboration
+- Research & innovation
+- Startup culture experience
+- Open-source contribution
+- Industry-ready skill development
 
 ---
 
@@ -51,27 +52,27 @@ Our internship ecosystem is designed to provide:
 
 ## 🤖 Artificial Intelligence & Machine Learning
 
-### Core Learning
+### Focus Areas
 - Python for AI
 - Machine Learning
 - Deep Learning
 - Generative AI
 - LangChain
 - RAG Systems
-- Vector Databases
 - LLM Applications
+- Vector Databases
 
 ### Important Resources
 
-| Platform | Link |
+| Resource | Link |
 |---|---|
-| Python Documentation | https://docs.python.org/3/ |
+| Python Docs | https://docs.python.org/3/ |
 | Scikit Learn | https://scikit-learn.org/stable/ |
-| TensorFlow | https://www.tensorflow.org/ |
+| TensorFlow | https://tensorflow.org/ |
 | PyTorch | https://pytorch.org/ |
 | HuggingFace | https://huggingface.co/ |
-| LangChain | https://www.langchain.com/ |
-| Kaggle | https://www.kaggle.com/ |
+| LangChain | https://langchain.com/ |
+| Kaggle | https://kaggle.com/ |
 | Papers With Code | https://paperswithcode.com/ |
 
 </td>
@@ -82,25 +83,25 @@ Our internship ecosystem is designed to provide:
 
 ### Technologies
 - MERN Stack
-- Next.js
 - React.js
+- Next.js
 - Node.js
 - Express.js
 - Django
 - FastAPI
-- REST APIs
-- PostgreSQL & MongoDB
+- PostgreSQL
+- MongoDB
 
 ### Important Resources
 
-| Platform | Link |
+| Resource | Link |
 |---|---|
 | MDN Docs | https://developer.mozilla.org/ |
 | React Docs | https://react.dev/ |
 | Next.js | https://nextjs.org/ |
 | Node.js | https://nodejs.org/ |
 | Express.js | https://expressjs.com/ |
-| Django | https://www.djangoproject.com/ |
+| Django | https://djangoproject.com/ |
 | FastAPI | https://fastapi.tiangolo.com/ |
 | MongoDB University | https://learn.mongodb.com/ |
 
@@ -116,23 +117,23 @@ Our internship ecosystem is designed to provide:
 
 ## 🐍 Python Development
 
-### Learning Focus
+### Learning Areas
 - Core Python
 - OOP Concepts
-- File Handling
 - APIs
 - Automation
+- Scripting
+- Flask
+- FastAPI
 - Data Structures
-- Flask & FastAPI
-- Python Scripting
 
 ### Important Resources
 
-| Platform | Link |
+| Resource | Link |
 |---|---|
 | Real Python | https://realpython.com/ |
-| W3Schools Python | https://www.w3schools.com/python/ |
-| GeeksforGeeks Python | https://www.geeksforgeeks.org/python-programming-language/ |
+| W3Schools Python | https://w3schools.com/python/ |
+| GeeksforGeeks | https://geeksforgeeks.org/python-programming-language/ |
 | Python Tutor | https://pythontutor.com/ |
 | Automate The Boring Stuff | https://automatetheboringstuff.com/ |
 
@@ -142,21 +143,22 @@ Our internship ecosystem is designed to provide:
 
 ## 🧪 Quality Assurance (QA)
 
-### Learning Focus
+### Learning Areas
 - Manual Testing
 - Automation Testing
 - Selenium
 - API Testing
-- Performance Testing
-- Test Cases & Reporting
+- JMeter
+- Test Case Writing
+- Bug Reporting
 
 ### Important Resources
 
-| Platform | Link |
+| Resource | Link |
 |---|---|
-| Selenium | https://www.selenium.dev/ |
-| Postman | https://www.postman.com/ |
-| Cypress | https://www.cypress.io/ |
+| Selenium | https://selenium.dev/ |
+| Cypress | https://cypress.io/ |
+| Postman | https://postman.com/ |
 | JMeter | https://jmeter.apache.org/ |
 | Test Automation University | https://testautomationu.applitools.com/ |
 
@@ -172,25 +174,25 @@ Our internship ecosystem is designed to provide:
 
 ## ⚙️ Automation & DevOps
 
-### Learning Focus
-- Workflow Automation
+### Learning Areas
 - CI/CD
 - Docker
-- GitHub Actions
 - Linux
-- Cloud Basics
+- GitHub Actions
 - Bash Scripting
+- Cloud Basics
+- Deployment Automation
 
 ### Important Resources
 
-| Platform | Link |
+| Resource | Link |
 |---|---|
-| Docker | https://www.docker.com/ |
+| Docker | https://docker.com/ |
 | GitHub Actions | https://github.com/features/actions |
-| Linux Journey | https://linuxjourney.com/ |
-| Jenkins | https://www.jenkins.io/ |
 | Kubernetes | https://kubernetes.io/ |
-| DigitalOcean Tutorials | https://www.digitalocean.com/community/tutorials |
+| Linux Journey | https://linuxjourney.com/ |
+| Jenkins | https://jenkins.io/ |
+| DigitalOcean Tutorials | https://digitalocean.com/community/tutorials |
 
 </td>
 
@@ -198,24 +200,24 @@ Our internship ecosystem is designed to provide:
 
 ## 📈 Digital Marketing
 
-### Learning Focus
+### Learning Areas
 - SEO
 - Social Media Marketing
-- Content Strategy
-- Email Marketing
 - Google Ads
 - Meta Ads
+- Email Marketing
 - Analytics
+- Branding
 
 ### Important Resources
 
-| Platform | Link |
+| Resource | Link |
 |---|---|
 | Google Skillshop | https://skillshop.withgoogle.com/ |
 | HubSpot Academy | https://academy.hubspot.com/ |
-| Meta Blueprint | https://www.facebook.com/business/learn |
-| Neil Patel Blog | https://neilpatel.com/blog/ |
+| Meta Blueprint | https://facebook.com/business/learn |
 | Ahrefs Blog | https://ahrefs.com/blog/ |
+| Neil Patel | https://neilpatel.com/blog/ |
 
 </td>
 </tr>
@@ -223,44 +225,151 @@ Our internship ecosystem is designed to provide:
 
 ---
 
-## 🎨 Graphics Design & Video Editing
+# 🎨 Graphics Design & Video Editing
 
-### Learning Focus
-- Branding Design
-- UI/UX Basics
+### Learning Areas
+- UI/UX Design
 - Motion Graphics
-- Reels & Shorts Editing
+- Branding
 - Thumbnail Design
-- Adobe Tools
-- Canva & Figma
+- Reels & Shorts Editing
+- Adobe Creative Suite
+- Figma & Canva
 
 ### Important Resources
 
-| Platform | Link |
+| Resource | Link |
 |---|---|
-| Figma | https://www.figma.com/ |
-| Canva | https://www.canva.com/ |
-| Adobe | https://www.adobe.com/ |
-| Behance | https://www.behance.net/ |
+| Figma | https://figma.com/ |
+| Canva | https://canva.com/ |
+| Adobe | https://adobe.com/ |
+| Behance | https://behance.net/ |
 | Dribbble | https://dribbble.com/ |
-| DaVinci Resolve | https://www.blackmagicdesign.com/products/davinciresolve |
-| Envato Elements | https://elements.envato.com/ |
+| DaVinci Resolve | https://blackmagicdesign.com/products/davinciresolve |
 
 ---
 
-# 📚 Internal Internship Guidelines
+# 🛠 Development Workflow
 
-## 📌 Git & GitHub Workflow
+## Git Workflow
 
 ```bash
 # Clone Repository
-git clone <repository-url>
+git clone https://github.com/YOUR_ORG_NAME/project-name.git
 
 # Create New Branch
-git checkout -b feature/your-feature-name
+git checkout -b feature/feature-name
 
 # Commit Changes
 git commit -m "Added new feature"
 
 # Push Changes
-git push origin feature/your-feature-name
+git push origin feature/feature-name
+```
+
+---
+
+# 📚 Learning Platforms
+
+- https://roadmap.sh/
+- https://freecodecamp.org/
+- https://frontendmentor.io/
+- https://coursera.org/
+- https://edx.org/
+- https://udemy.com/
+- https://exercism.org/
+
+---
+
+# 🔥 Live Tech News Updates
+
+> Automatically updating latest technology news directly inside GitHub README.
+
+## Recommended Sources
+
+- https://techcrunch.com/feed/
+- https://hnrss.org/frontpage
+- https://www.theverge.com/rss/index.xml
+- https://feeds.feedburner.com/TheHackersNews
+
+---
+
+## ⚡ Automated GitHub News Workflow
+
+Use this GitHub Action:
+
+https://github.com/gautamkrishnar/blog-post-workflow
+
+This will automatically:
+- Fetch latest tech news
+- Update README dynamically
+- Show AI & cybersecurity trends
+- Display latest development articles
+
+---
+
+# 📰 Latest Tech Updates
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+# 🏆 Internship Culture
+
+- Learn by Building
+- Consistency Matters
+- Documentation First
+- Team Collaboration
+- Innovation with Discipline
+- Real-World Problem Solving
+
+---
+
+# 🤝 Contribution Guidelines
+
+We encourage interns to:
+
+- Build projects
+- Contribute to open-source
+- Share learning resources
+- Maintain clean code
+- Follow Git best practices
+- Help fellow interns
+
+---
+
+# 📂 Recommended Organization Repositories
+
+| Repository | Purpose |
+|---|---|
+| learning-resources | Shared learning materials |
+| intern-projects | Internship projects |
+| ai-projects | AI & ML projects |
+| web-projects | Full-stack applications |
+| automation-scripts | Automation tools |
+| design-assets | Graphics & branding |
+| daily-learning | Daily progress tracking |
+
+---
+
+# 📬 Connect With Us
+
+<div align="center">
+
+## 🌐 Website
+https://squarelabs.com.np/
+
+## 📧 Email
+info@squarelabs.com.np
+
+## 💻 GitHub Organization
+https://github.com/YOUR_ORG_NAME
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8CC63F&height=120&section=footer"/>
+
+### Built with ❤️ by Square Labs
+
+</div>
