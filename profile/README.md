@@ -315,7 +315,7 @@ We encourage interns to:
 
 ---
 
-# 📂 Recommended Organization Repositories
+<!-- # 📂 Recommended Organization Repositories
 
 | Repository | Purpose |
 |---|---|
@@ -325,7 +325,7 @@ We encourage interns to:
 | web-projects | Full-stack applications |
 | automation-scripts | Automation tools |
 | design-assets | Graphics & branding |
-| daily-learning | Daily progress tracking |
+| daily-learning | Daily progress tracking | -->
 
 
 # 📬 Connect With Us
