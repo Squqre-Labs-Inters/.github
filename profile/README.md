@@ -281,8 +281,6 @@ git push origin feature/feature-name
 
 # 🔥 Live Tech News Updates
 
-Automatically updated latest technology news directly inside GitHub README.
-
 ## Recommended Sources
 
 - https://techcrunch.com/feed/
@@ -292,12 +290,6 @@ Automatically updated latest technology news directly inside GitHub README.
 
 ---
 
-# 📰 Latest Tech Updates
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
 
 # 🏆 Internship Culture
 
@@ -335,17 +327,6 @@ We encourage interns to:
 | design-assets | Graphics & branding |
 | daily-learning | Daily progress tracking |
 
----
-
-# 📊 Organization Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Squqre-Labs-Inters&show_icons=true&theme=transparent&title_color=0B9444&icon_color=8DC540&text_color=0B9444&border_color=8DC540"/>
-
-</p>
-
----
 
 # 📬 Connect With Us
 
